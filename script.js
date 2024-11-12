@@ -1,3 +1,4 @@
+// Values provideded - DO NOT CHANGE!
 let price = 1.87;
 let cid = [
   ["PENNY", 1.01],
@@ -10,3 +11,4 @@ let cid = [
   ["TWENTY", 60],
   ["ONE HUNDRED", 100]
 ];
+
